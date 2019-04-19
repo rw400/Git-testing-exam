@@ -19,3 +19,4 @@ Rebase - integrates changes from one branch to another, instead of merging every
 Question 3: Assuming you have pushed commits onto origin, delete the third to last commit. 
 
 git reset --hard HEAD~3
+git push --force
