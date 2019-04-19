@@ -1,0 +1,6 @@
+export privateServer="https://55.55.56.343:3000"
+export SECRET_KEY = "secret seceret key key"
+export infura_key="Asfe2342464346gh3573g2f"
+export mnemonic="homse fakes keyss egwes aefegg aegeg aefhe aeeg aegag agaeg aegge"
+export personalEmail="dsfoiwrg@gsid.com"
+export NVM_DIR = "$HOME/.nvm"
